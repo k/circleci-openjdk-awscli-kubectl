@@ -1,4 +1,4 @@
-FROM kbambridge/circleci-openjdk-awscli
+FROM kbambridge/circleci-openjdk-awscli:latest
 
 WORKDIR /home/circleci
 
